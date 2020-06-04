@@ -7,7 +7,7 @@
 <img src="images/A2.png"><br>
 
 3. Click on the power button to start the motor.<br>
-<img src="images/A3.jpg"><br>
+<img src="images/A3.png"><br>
 
 4. Click on the knob to set rpm of 300 and click on the NEXT button at the bottom right corner to proceed to the next step. <br>
 <img src="images/A4.png"><br>

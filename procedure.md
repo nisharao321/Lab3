@@ -43,13 +43,13 @@ Click on the NEXT button at the bottom right corner to proceed to the next step.
 14. Click on the big hand to take static head reading from manometer.<br>
 <img src="images/A14.png"><br>
 
-15. Repeat the procedure no 9 and 10 for taking reading of total head and velocity head at point 1 in ventilation duct.Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
+15. Repeat the procedure no 13 and 14 for taking reading of total head and velocity head at point 2 in ventilation duct. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
 <img src="images/A15.png"><br>
 
 16. The observation for point 2 is given below and put the required value in calculation to check your results.<br>
 <img src="images/A16.png"><br>
 
-17. Click on the NEXT button at the bottom right corner to proceed to the next step.Repeat all the steps for 400 rpm.<br>
+17. Click on the NEXT button at the bottom right corner to proceed to the next step. Repeat all the above steps for 400 rpm.<br>
 <img src="images/A17.png"><br>
 
 18. The Result for velocity of air at 300 rpm and 400 rpm is given below.<br>

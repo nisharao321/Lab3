@@ -1,6 +1,6 @@
 ##### These procedure steps will be followed on the simulator
 
-1. When you click on a Air Velocity using Vane Anemometer file, a new window will open as shown below. Click on the NEXT button at the bottom right corner to proceed to the next step. <br>
+1. When you click on a Air velocity in ventilation duct file, a new window will open as shown below. Click on the NEXT button at the bottom right corner to proceed to the next step. <br>
 <img src="images/A1.png"><br>
 
 2. Click on the slider to rotate so that current comes in the circuit board.<br>
@@ -52,5 +52,5 @@ Click on the NEXT button at the bottom right corner to proceed to the next step.
 17. Click on the NEXT button at the bottom right corner to proceed to the next step.Repeat all the steps for 400 rpm.<br>
 <img src="images/A17.png"><br>
 
-18. The Result for 300 rpm and 400 rpm is given below.<br>
+18. The Result for velocity of air at 300 rpm and 400 rpm is given below.<br>
 <img src="images/A18.png"><br>

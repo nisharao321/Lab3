@@ -48,6 +48,8 @@
 16. The observation for point 2 is given below and put the required value in calculation to check your results.<br>
 <img src="images/A16.png"><br>
 
-17. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
+17. Click on the NEXT button at the bottom right corner to proceed to the next step.Repeat all the steps for 400 rpm.<br>
 <img src="images/A17.png"><br>
 
+18. The Result for 300 rpm and 400 rpm is given below.<br>
+<img src="images/A18.jpg"><br>

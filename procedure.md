@@ -52,4 +52,4 @@
 <img src="images/A17.png"><br>
 
 18. The Result for 300 rpm and 400 rpm is given below.<br>
-<img src="images/A18.jpg"><br>
+<img src="images/A18.png"><br>
